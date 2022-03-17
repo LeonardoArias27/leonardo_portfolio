@@ -38,9 +38,7 @@ Demonstrable published work samples can be seen under:
 o F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment, Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
 
 
-• Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse,
-M. Integration of Remote Sensing and Mexican Water Quality Monitoring System Using an Extreme Learning
-Machine. Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
+• Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse, M. [Integration of Remote Sensing and Mexican Water Quality Monitoring System Using an Extreme Learning Machine](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/sensors-21-04118_2.pdf). Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
 
 • Perosa, F.; Gelhaus, M.; Zwirglmaier, V.; Arias-Rodriguez, L.F.; Zingraff-Hamed, A.; Cyffka, B.; Disse, M.
 (2021) Integrated Valuation of Nature-Based Solutions Using TESSA: Three Floodplain Restoration Studies in
