@@ -41,6 +41,13 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     
 ### **- Multitemporal analysis**
 > Application of machine learning models for retrieval and analysis of time-series of environmental parameters
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Temp_01.PNG"/>
+    </p>
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Temp_02.PNG"/>
+    </p>
+
 
 ### **- Identify needs for methodology improvements and develop solutions**
 > Increment of data availability by data fusion
