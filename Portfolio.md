@@ -28,7 +28,7 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 
 > Atmospheric correction algorithms (C2RCC, Sen2Cor, Py6S) (Application of Py6S over the Italian Alps, corrected image on the right)
 <p align="center">
-    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/AC_01.PNG"/>
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/AC_01.png"/>
     </p>
 
 > Retrieval of remote sensing reflectance for modelling purposes
