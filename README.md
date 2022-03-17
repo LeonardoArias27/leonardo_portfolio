@@ -30,3 +30,21 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     o Increment of data availability by data fusion
 
 My international experience is a precious advantage, enriched by a proactive and positive character and an innate curiosity to learn and build new experience from interactions with different people and situations. I am comfortable working with entities from different environments and heterogeneous backgrounds. I have extraordinary leadership and team building skills, and I feel that a dynamic situation is the right place where to be. In the end, my engineering and applied-data-analysis background assures a solid and reliable technical understanding. Therefore, I am looking forward to a new challenging position after my promotion, to share my skills, energy, and enthusiasm.
+
+Demonstrable published work samples can be seen under:
+
+• F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna,
+Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment, Journal of
+Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
+
+• Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse,
+M. Integration of Remote Sensing and Mexican Water Quality Monitoring System Using an Extreme Learning
+Machine. Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
+
+• Perosa, F.; Gelhaus, M.; Zwirglmaier, V.; Arias-Rodriguez, L.F.; Zingraff-Hamed, A.; Cyffka, B.; Disse, M.
+(2021) Integrated Valuation of Nature-Based Solutions Using TESSA: Three Floodplain Restoration Studies in
+the Danube Catchment. Sustainability, 13, 1482. https://doi.org/10.3390/su13031482
+
+• Arias-Rodriguez, L.F.; Duan, Z.; Sepúlveda, R.; Martinez-Martinez, S.I.; Disse, M. Monitoring Water Quality of
+Valle de Bravo Reservoir, Mexico, Using Entire Lifespan of MERIS Data and Machine Learning
+Approaches. Remote Sens. 2020, 12, 1586. https://doi.org/10.3390/rs12101586
