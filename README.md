@@ -7,6 +7,8 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 
 > Cleaning NaN, interpolation of missing data, daily-monthly time series
 
+![This is an image]
+
 ### **- Acquisition and pre-processing of remote sensing data such as MERIS, Landsat-5-8, Sentinel-1, Sentinel-2 and Sentinel-3**
 > Orthorectification, reprojection, data extraction
 
