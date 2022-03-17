@@ -5,7 +5,7 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 ### **- Acquisition and pre-processing of different field data from stakeholders** 
 > Flooded areas visualization
 <p align="center">
-        <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Flood_1.PNG"/>
+        <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Flood_2.PNG"/>
 </p>
 
 > Water quality datasets and visualization from SAR data
