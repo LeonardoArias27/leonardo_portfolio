@@ -2,6 +2,34 @@
 
 Currently, I am part of the Chair of Hydrology at the Technical University of Munich, the leading German university (https://www.cee.ed.tum.de/hydrologie/home/). In this competent environment, I have developed research as PhD candidate (for Dr.-Ing.) in the field of remote sensing applied to environmental engineering. From this valuable point of view, I have the possibility to work in a rich ambience where I developed cutting-edge research based on the application of statistical and machine learning techniques for earth observation data. My main tasks consist in a whole set of remote sensing processing and data analysis techniques including but not limited to:
 
+## Data Science
+
+### **- Data analysis methodology to develop predictive models**
+> Scatterplots
+
+> Histogram visualization, Data interpretation
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Histo_01.PNG"/>
+    </p>
+
+> Feature correlation, Heatmap visualization
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Heat_01.PNG"/>
+    </p>
+
+> Data transformation, Feature engineering
+
+### **- Machine learning modelling**
+> Hyperparameters calibration (GridSearch, RandomSearch, PowerSet)
+> Linear regression, support vector machines, random forest, gaussian processes, artificial neural networks, extreme learning machines
+> Model performance evaluation (error metrics: R2, RMSE, MAE) with Cross-Validation
+    
+### **- Multitemporal analysis**
+> Application of machine learning models for retrieval and analysis of time-series of environmental parameters
+
+### **- Identify needs for methodology improvements and develop solutions**
+> Increment of data availability by data fusion
+
 ## Remote Sensing 
 
 ### **- Acquisition and pre-processing of different field data from stakeholders** 
@@ -34,22 +62,6 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     </p>
 
 > Retrieval of remote sensing reflectance for modelling purposes
-
-## Data Science
-
-### **- Data analysis methodology to develop predictive models**
-> Scatterplots, histogram visualization, data interpretation, feature correlation, data transformation, feature engineering
-    
-### **- Machine learning modelling**
-> Hyperparameters calibration (GridSearch, RandomSearch, PowerSet)
-> Linear regression, support vector machines, random forest, gaussian processes, artificial neural networks, extreme learning machines
-> Model performance evaluation (error metrics: R2, RMSE, MAE) with Cross-Validation
-    
-### **- Multitemporal analysis**
-> Application of machine learning models for retrieval and analysis of time-series of environmental parameters
-
-### **- Identify needs for methodology improvements and develop solutions**
-> Increment of data availability by data fusion
 
 ## Research Skills
 
