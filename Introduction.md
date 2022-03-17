@@ -35,13 +35,10 @@ My international experience is a precious advantage, enriched by a proactive and
 
 Demonstrable published work samples can be seen under:
 
-o F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment, Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
+o F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, [Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/hydrology_1-s2.0-S2589915522000050-main.pdf), Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
 
+• Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse, M. [Integration of Remote Sensing and Mexican Water Quality Monitoring System Using an Extreme Learning Machine](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/sensors-21-04118_2.pdf). Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
 
-• Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse, M. [Integration of Remote Sensing and Mexican Water Quality Monitoring System Using an Extreme Learning Machine](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/sensors-21-04118_2.pdf). Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
+• Perosa, F.; Gelhaus, M.; Zwirglmaier, V.; Arias-Rodriguez, L.F.; Zingraff-Hamed, A.; Cyffka, B.; Disse, M. (2021) [Integrated Valuation of Nature-Based Solutions Using TESSA: Three Floodplain Restoration Studies in the Danube Catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/sustainability-13-01482.pdf). Sustainability, 13, 1482. https://doi.org/10.3390/su13031482
 
-• Perosa, F.; Gelhaus, M.; Zwirglmaier, V.; Arias-Rodriguez, L.F.; Zingraff-Hamed, A.; Cyffka, B.; Disse, M.
-(2021) Integrated Valuation of Nature-Based Solutions Using TESSA: Three Floodplain Restoration Studies in
-the Danube Catchment. Sustainability, 13, 1482. https://doi.org/10.3390/su13031482
-
-• Arias-Rodriguez, L.F.; Duan, Z.; Sepúlveda, R.; Martinez-Martinez, S.I.; Disse, M. [Monitoring Water Quality of Valle de Bravo Reservoir, Mexico, Using Entire Lifespan of MERIS Data and Machine Learning Approaches](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/remotesensing-12-01586-v2.pdf). Remote Sens. 2020, 12, 1586. https://doi.org/10.3390/rs12101586
+• Arias-Rodriguez, L.F.; Duan, Z.; Sepúlveda, R.; Martinez-Martinez, S.I.; Disse, M. [Monitoring Water Quality of Valle de Bravo Reservoir, Mexico, Using Entire Lifespan of MERIS Data and Machine Learning Approaches](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/remotesensing-12-01586-v2.pdf). Remote Sens. 2020, 12, 1586. https://doi.org/10.3390/rs12101586
