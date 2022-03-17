@@ -3,15 +3,16 @@
 Currently, I am part of the Chair of Hydrology at the Technical University of Munich, the leading German university (https://www.cee.ed.tum.de/hydrologie/home/). In this competent environment, I have developed research as PhD candidate (for Dr.-Ing.) in the field of remote sensing applied to environmental engineering. From this valuable point of view, I have the possibility to work in a rich ambience where I developed cutting-edge research based on the application of statistical and machine learning techniques for earth observation data. My main tasks consist in a whole set of remote sensing processing and data analysis techniques including but not limited to:
 
 ### **- Acquisition and pre-processing of different field data from stakeholders** 
-> Water quality and snow coverage datasets
-
-> Cleaning NaN, interpolation of missing data, daily-monthly time series
+> Water quality,  snow coverage and flood datasets and visualization
 
 <p align="center">
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Water_2.PNG"/>
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Water_1.PNG"/>
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Snow_1.PNG"/>
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Flood_1.PNG"/>
 </p>
+
+> Cleaning NaN, interpolation of missing data, daily-monthly time series
 
 ### **- Acquisition and pre-processing of remote sensing data such as MERIS, Landsat-5-8, Sentinel-1, Sentinel-2 and Sentinel-3**
 > Orthorectification, reprojection, data extraction
