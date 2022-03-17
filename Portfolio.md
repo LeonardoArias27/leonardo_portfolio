@@ -26,7 +26,10 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 ### **- Acquisition and pre-processing of remote sensing data such as MERIS, Landsat-5-8, Sentinel-1, Sentinel-2 and Sentinel-3**
 > Orthorectification, reprojection, data extraction
 
-> Atmospheric correction algorithms (C2RCC, Sen2Cor, Py6S)
+> Atmospheric correction algorithms (C2RCC, Sen2Cor, Py6S) (Application of Py6S over the Italian Alps, corrected image on the right)
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/AC_1.PNG"/>
+    </p>
 
 > Retrieval of remote sensing reflectance for modelling purposes
     
