@@ -59,7 +59,7 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
         <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Pub_04.PNG"/>
 </p>
     
-## Published work can be seen under the following peer-reviewed research articles of the following international jounals:
+### Published work can be seen under the following peer-reviewed research articles of the following international jounals:
 
 • F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, [Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/hydrology_1-s2.0-S2589915522000050-main.pdf), Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
 
