@@ -22,7 +22,15 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 ### **- Machine learning modelling**
 > Hyperparameters calibration (GridSearch, RandomSearch, PowerSet)
 > Linear regression, support vector machines, random forest, gaussian processes, artificial neural networks, extreme learning machines
-> Model performance evaluation (error metrics: R2, RMSE, MAE) with Cross-Validation
+> Model performance evaluation (error metrics R2, RMSE) with Cross-Validation
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/R2_01.PNG"/>
+    </p>
+> Model performance evaluation with Scatterplots and Boxplots 
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Scatter_01.PNG"/>
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Box_01.PNG"/>
+    </p>
     
 ### **- Multitemporal analysis**
 > Application of machine learning models for retrieval and analysis of time-series of environmental parameters
