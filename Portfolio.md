@@ -28,7 +28,7 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     </p>
 > Model performance evaluation with Scatterplots and Boxplots 
 <p align="center">
-    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Scatter_01.PNG"/>
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Scatter_02.PNG"/>
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Box_01.PNG"/>
     </p>
     
