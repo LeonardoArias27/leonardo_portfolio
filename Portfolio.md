@@ -47,18 +47,18 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     
 ### **- Multitemporal analysis**
 > Application of machine learning models for retrieval and analysis of time-series of environmental parameters
-    
-### **- Academic and research skills**
+
+### **- Identify needs for methodology improvements and develop solutions**
+> Increment of data availability by data fusion
+
+## Research Skills
+
+### **- Research Articles**
 > Writing and preparation of research articles (academic-level english) for publication in international peer reviewed journals. Preparation and presentation of findings and methodology to broad audiences. Supervision of junior members/students to develop research.
 <p align="center">
         <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Pub_04.PNG"/>
 </p>
     
-### **- Identify needs for methodology improvements and develop solutions**
-> Increment of data availability by data fusion
-
-My international experience is a precious advantage, enriched by a proactive and positive character and an innate curiosity to learn and build new experience from interactions with different people and situations. I am comfortable working with entities from different environments and heterogeneous backgrounds. I have extraordinary leadership and team building skills, and I feel that a dynamic situation is the right place where to be. In the end, my engineering and applied-data-analysis background assures a solid and reliable technical understanding. Therefore, I am looking forward to a new challenging position after my promotion, to share my skills, energy, and enthusiasm.
-
 ## Published work can be seen under the following peer-reviewed research articles of the following international jounals:
 
 • F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, [Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/hydrology_1-s2.0-S2589915522000050-main.pdf), Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
@@ -68,3 +68,5 @@ My international experience is a precious advantage, enriched by a proactive and
 • Perosa, F.; Gelhaus, M.; Zwirglmaier, V.; Arias-Rodriguez, L.F.; Zingraff-Hamed, A.; Cyffka, B.; Disse, M. (2021) [Integrated Valuation of Nature-Based Solutions Using TESSA: Three Floodplain Restoration Studies in the Danube Catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/sustainability-13-01482.pdf). Sustainability, 13, 1482. https://doi.org/10.3390/su13031482
 
 • Arias-Rodriguez, L.F.; Duan, Z.; Sepúlveda, R.; Martinez-Martinez, S.I.; Disse, M. [Monitoring Water Quality of Valle de Bravo Reservoir, Mexico, Using Entire Lifespan of MERIS Data and Machine Learning Approaches](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/remotesensing-12-01586-v2.pdf). Remote Sens. 2020, 12, 1586. https://doi.org/10.3390/rs12101586
+
+My international experience is a precious advantage, enriched by a proactive and positive character and an innate curiosity to learn and build new experience from interactions with different people and situations. I am comfortable working with entities from different environments and heterogeneous backgrounds. I have extraordinary leadership and team building skills, and I feel that a dynamic situation is the right place where to be. In the end, my engineering and applied-data-analysis background assures a solid and reliable technical understanding. Therefore, I am looking forward to a new challenging position after my promotion, to share my skills, energy, and enthusiasm.
