@@ -7,7 +7,10 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 
 > Cleaning NaN, interpolation of missing data, daily-monthly time series
 
-![Water Quality](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Water_1.PNG)
+<p align="center">
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Water_2.PNG"/>
+    <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Water_1.PNG"/>
+</p>
 
 ### **- Acquisition and pre-processing of remote sensing data such as MERIS, Landsat-5-8, Sentinel-1, Sentinel-2 and Sentinel-3**
 > Orthorectification, reprojection, data extraction
