@@ -5,19 +5,19 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 ## Data Science
 
 ### **- Data analysis methodology to develop predictive models**
-> Scatterplots
+> Scatterplots and Data interpretation
 
-> Histogram visualization, Data interpretation
+> Histogram visualization
 <p align="center">
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Histo_01.PNG"/>
     </p>
 
-> Feature correlation, Heatmap visualization
+> Feature correlation and Heatmaps visualization
 <p align="center">
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Heat_01.PNG"/>
     </p>
 
-> Data transformation, Feature engineering
+> Data transformation and Feature engineering
 
 ### **- Machine learning modelling**
 > Hyperparameters calibration (GridSearch, RandomSearch, PowerSet)
