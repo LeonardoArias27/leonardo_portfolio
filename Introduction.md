@@ -33,9 +33,9 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 
 My international experience is a precious advantage, enriched by a proactive and positive character and an innate curiosity to learn and build new experience from interactions with different people and situations. I am comfortable working with entities from different environments and heterogeneous backgrounds. I have extraordinary leadership and team building skills, and I feel that a dynamic situation is the right place where to be. In the end, my engineering and applied-data-analysis background assures a solid and reliable technical understanding. Therefore, I am looking forward to a new challenging position after my promotion, to share my skills, energy, and enthusiasm.
 
-Demonstrable published work samples can be seen under:
+## Demonstrable published work samples can be seen under:
 
-o F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, [Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/hydrology_1-s2.0-S2589915522000050-main.pdf), Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
+• F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, [Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/hydrology_1-s2.0-S2589915522000050-main.pdf), Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
 
 • Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse, M. [Integration of Remote Sensing and Mexican Water Quality Monitoring System Using an Extreme Learning Machine](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Publications/sensors-21-04118_2.pdf). Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
 
