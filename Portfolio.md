@@ -16,7 +16,7 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Water_1.PNG"/>
     </p>
 
-> Snow coverage for mountain regions (Application in the Italian Alps).
+> Snow coverage for mountain regions (Application in the Italian Alps)
 <p align="center">
     <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Snow_1.PNG"/>
     </p>
