@@ -7,8 +7,6 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
 
 > Cleaning NaN, interpolation of missing data, daily-monthly time series
 
-![This is an image]
-
 ### **- Acquisition and pre-processing of remote sensing data such as MERIS, Landsat-5-8, Sentinel-1, Sentinel-2 and Sentinel-3**
 > Orthorectification, reprojection, data extraction
 
@@ -37,9 +35,7 @@ My international experience is a precious advantage, enriched by a proactive and
 
 Demonstrable published work samples can be seen under:
 
-o F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna,
-Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment, Journal of
-Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
+o F. Hofmeister, L.F. Arias-Rodriguez, V. Premier, C. Marin, C. Notarnicola, M. Disse, G. Chiogna, Intercomparison of Sentinel-2 and modelled snow cover maps in a high-elevation Alpine catchment, Journal of Hydrology X (2022), doi: https://doi.org/10.1016/j.hydroa.2022.100123.
 
 
 • Arias-Rodriguez, L.F.; Duan, Z.; Díaz-Torres, J.d.J.; Basilio Hazas, M.; Huang, J.; Kumar, B.U.; Tuo, Y.; Disse,
@@ -50,6 +46,4 @@ Machine. Sensors 2021, 21, 4118. https://doi.org/10.3390/s21124118
 (2021) Integrated Valuation of Nature-Based Solutions Using TESSA: Three Floodplain Restoration Studies in
 the Danube Catchment. Sustainability, 13, 1482. https://doi.org/10.3390/su13031482
 
-• Arias-Rodriguez, L.F.; Duan, Z.; Sepúlveda, R.; Martinez-Martinez, S.I.; Disse, M. Monitoring Water Quality of
-Valle de Bravo Reservoir, Mexico, Using Entire Lifespan of MERIS Data and Machine Learning
-Approaches. Remote Sens. 2020, 12, 1586. https://doi.org/10.3390/rs12101586
+• Arias-Rodriguez, L.F.; Duan, Z.; Sepúlveda, R.; Martinez-Martinez, S.I.; Disse, M. [Monitoring Water Quality of Valle de Bravo Reservoir, Mexico, Using Entire Lifespan of MERIS Data and Machine Learning Approaches](https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/remotesensing-12-01586-v2.pdf). Remote Sens. 2020, 12, 1586. https://doi.org/10.3390/rs12101586
