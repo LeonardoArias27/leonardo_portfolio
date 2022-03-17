@@ -46,6 +46,9 @@ Currently, I am part of the Chair of Hydrology at the Technical University of Mu
     
 ### **- Academic and research skills**
 > Writing and preparation of research articles (academic-level english) for publication in international peer reviewed journals. Preparation and presentation of findings and methodology to broad audiences. Supervision of junior members/students to develop research.
+<p align="center">
+        <img src="https://github.com/LeonardoArias27/leonardo_portfolio/blob/main/Images/Flood_1.PNG"/>
+</p>
     
 ### **- Identify needs for methodology improvements and develop solutions**
 > Increment of data availability by data fusion
